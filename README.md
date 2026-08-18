@@ -14,9 +14,9 @@ Currently exploring **AI agents, developer tools, intelligent systems, and AI-po
 
 ## 🚀 Featured Projects
 
-- 🧩 [mini-agent](https://github.com/chenzh659/mini-agent) — A lightweight coding agent built from scratch to explore agent architecture, tool use, sandboxing, and LLM workflows.
-- 🔐 [DeepAudit Agent Runtime](https://github.com/chenzh659/DeepAudit-agent-runtime) — An experimental agent runtime for multi-agent code security auditing, built around LangGraph, tool protocols, and safe execution boundaries.
-- 🗺️ [travel-assistant](https://github.com/chenzh659/travel-assistant) — A travel decision assistant combining weather, routes, transportation analysis, and contextual recommendations.
+- 🧩 [mini-agent](https://github.com/chivopic/mini-agent) — A lightweight coding agent built from scratch to explore agent architecture, tool use, sandboxing, and LLM workflows.
+- 🔐 [DeepAudit Agent Runtime](https://github.com/chivopic/DeepAudit-agent-runtime) — An experimental agent runtime for multi-agent code security auditing, built around LangGraph, tool protocols, and safe execution boundaries.
+- 🗺️ [travel-assistant](https://github.com/chivopic/travel-assistant) — A travel decision assistant combining weather, routes, transportation analysis, and contextual recommendations.
 
 ## 🌱 Currently Exploring
 
