@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chiv 👋
 
-<!--
-**chenzh659/chenzh659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things with AI.
 
-Here are some ideas to get you started:
+Currently exploring **AI agents, developer tools, intelligent systems, and AI-powered security** — especially how AI can move beyond chat and become systems that can reason, use tools, and take action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Exploring
+
+- 🤖 AI Agents & Agentic Systems
+- 🛠️ Developer Tools & Coding Agents
+- 🔐 AI-powered Security
+- 🧠 World Models & Intelligent Systems
+- 📱 AI-native Software & Interfaces
+
+## 🚀 Featured Projects
+
+- 🧩 [mini-agent](https://github.com/chenzh659/mini-agent) — A lightweight coding agent built from scratch to explore agent architecture, tool use, sandboxing, and LLM workflows.
+- 🔐 [DeepAudit Agent Runtime](https://github.com/chenzh659/DeepAudit-agent-runtime) — An experimental agent runtime for multi-agent code security auditing, built around LangGraph, tool protocols, and safe execution boundaries.
+- 🗺️ [travel-assistant](https://github.com/chenzh659/travel-assistant) — A travel decision assistant combining weather, routes, transportation analysis, and contextual recommendations.
+
+## 🌱 Currently Exploring
+
+`Agents` · `LLM Engineering` · `MCP` · `Agent Harnesses` · `Backend Systems` · `AI Security`
+
+---
+
+> Building intelligent systems that can reason, use tools, and act.
