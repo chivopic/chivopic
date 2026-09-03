@@ -7,9 +7,8 @@ Currently exploring **AI agents, developer tools, intelligent systems, and AI-po
 ## 🔭 What I'm Exploring
 
 - ⚙️ AI Agents & Agentic Systems
-- 🛠️ Developer Tools & Coding Agents
 - 🔐 AI-powered Security
-- 🧠 World Models & Intelligent Systems
+- 🌱 World Models & Intelligent Systems
 - 💻 AI-native Software & Interfaces
 
 ## 🚀 Featured Projects
