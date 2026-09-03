@@ -6,22 +6,18 @@ Currently exploring **AI agents, developer tools, intelligent systems, and AI-po
 
 ## 🔭 What I'm Exploring
 
-- 🤖 AI Agents & Agentic Systems
+- ⚙️ AI Agents & Agentic Systems
 - 🛠️ Developer Tools & Coding Agents
 - 🔐 AI-powered Security
 - 🧠 World Models & Intelligent Systems
-- 📱 AI-native Software & Interfaces
+- 💻 AI-native Software & Interfaces
 
 ## 🚀 Featured Projects
 
-- 🧩 [mini-agent](https://github.com/chivopic/mini-agent) — A lightweight coding agent built from scratch to explore agent architecture, tool use, sandboxing, and LLM workflows.
-- 🔐 [DeepAudit Agent Runtime](https://github.com/chivopic/DeepAudit-agent-runtime) — An experimental agent runtime for multi-agent code security auditing, built around LangGraph, tool protocols, and safe execution boundaries.
+- **[mini-agent](https://github.com/chivopic/mini-agent)** — A lightweight, secure CLI coding agent. Built from scratch to study agent loops, tool use, workspace isolation, and LLM workflows. Supports DeepSeek / OpenAI-compatible APIs.
+- **[DeepAudit Agent Runtime](https://github.com/chivopic/DeepAudit-agent-runtime)** — Experimental runtime refactor for multi-agent code security auditing. LangGraph + Pydantic dual-path design, tool protocols, checkpoints, and controlled execution boundaries.
+- **[chivgent](https://github.com/chivopic/chivgent)** — A minimal multi-provider coding-agent CLI for learning harness architecture.
 
 
-## 🌱 Currently Exploring
 
- `Agent Harnesses` ·  `AI Security`
-
----
-
-> Building intelligent systems that can reason, use tools, and act.
+>Reason. Orchestrate. Execute.
