@@ -12,8 +12,6 @@ Currently exploring **AI agents, developer tools, intelligent systems, and AI-po
 - 💻 AI-native Software & Interfaces
 
 ## 🚀 Featured Projects
-
-.
 - **[chivgent](https://github.com/chivopic/chivgent)** — A minimal multi-provider coding-agent CLI for learning harness architecture.
 
 
