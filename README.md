@@ -20,7 +20,7 @@ Currently exploring **AI agents, developer tools, intelligent systems, and AI-po
 
 ## 🌱 Currently Exploring
 
- `Agent Harnesses` · `Backend Systems` · `AI Security`
+ `Agent Harnesses` ·  `AI Security`
 
 ---
 
