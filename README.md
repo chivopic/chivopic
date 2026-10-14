@@ -9,7 +9,7 @@
 - 🌱 World Models & Intelligent Systems
 - 💻 AI-native Software & Interfaces
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 - **[chivgent](https://github.com/chivopic/chivgent)** — A minimal multi-provider coding-agent CLI for learning harness architecture.
 
 
